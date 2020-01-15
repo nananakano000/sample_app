@@ -1,3 +1,5 @@
+//重要な部分を忘れないようにメモします。
+
 5.1.2 BootstrapとカスタムCSS
 >次のディレクトリは、
 >app/assets/stylesheets/
